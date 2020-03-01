@@ -1,0 +1,12 @@
+{
+  "type": "service_account",
+  "project_id": "phonic-agility-255419",
+  "private_key_id": "a0e52e834424684e2411e1e4d60eed2077777e86",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvQIBADANBgkqhkiG9w0BAQEFAASCBKcwggSjAgEAAoIBAQC02zTs3muF6K5A\nIZBJXcvIZ8ODrhSMvVfpgGiMgaepixtON4iWY0B64C7TkPIQk7hNDCl4+GH8rSu+\nON8nqVwMxSgMC90BbAvpYBIRIwso0SILyiox1o+LrEIBhckqJkGm2fGEGtzJEswN\niayYpMYc6YZnbWhkStC6kA13Ls6BLAowefJ5ej06+Eovka7NIaoQBg7r7JmFskfv\nC/nT6+C17wXI48hYuSnP58ELQV91ogTs2ewY5VlAXeExvSfJcQg0eZn74DjuRrQ8\nkBaP5PTEwSnGZvwmoy2YSl0gZbV7FdylJobzGPha33WfXF8tiGHS26IUc6KuY1Bb\nL3r47qMpAgMBAAECggEATMmTh4yKB4F61mTJv7SwzKZtxy92ryjHNi9cdGeqOZyD\n2+pNNljurB0aFJ7CgBJQGnpy81c2N1OJMoswCEVqfUuKTM8Op0dqKUyubxM7bjmZ\nJHtR/fYU3V8maUIV3qz+i+qWFhpXqpGuDINrQiYXrXfjJm+39nkjdUqrRPKdIA9L\n8+HvpIVwoQMNROJ2dpzHPjcyE7yBEofR0qmtu6MoYsiA6hLXKuR/F6Fw9MCZRsha\nTngVVX4nvKZdwuPuk0hRjdfcnz11V8rz3NbEiuEch29KruJ/wT5I2V4lgwM/YdIZ\nLXK3CIUuVzr5iuZbiWeOIsnbWzWt3ihp9Fy0NAaWfwKBgQD1o0C3A/dxPSA0TrT+\nRXUOmwg4DrDNQHiLsYgDON3eabHzeah7NsGwMdssUDpLlrQ7dfM2HsfIGR4zEoDt\n3mOd0Ugcwv/CXaa9ZS6BA/PTsa9+kG7gvB4mHdoEEvaJpmcCBmmXgro3/YZmqzn0\nfLQfYGziuLUYSYGZdb47DAYTjwKBgQC8fFn3YMODpEYgW6Qg0CRXBE21RmCT1N1T\nR7DdpbIc1Orr0dzkK41CS6Is4t5bd8Lj5yF7xqBwCfyQyOrRknutQx9JcUqqMbHN\nTet910twa8+m1s9UnuQx9p+Es4qX5nZrhc+jtJQRXSy+QC332ym5cZmdTaGBCyd6\nfWaJFVAhxwKBgQC39ZhMt+rDYqzQn7VKzEe7NX31RYNBZCwjKkSbbSY0IGIF3rG/\n/SUXSG9FA5x06Zt3AIGxoWGrSKxmQVBPVIK0OXzRFXSnYq2yH6mxM32Sp/qvRYnU\nQu4tS6Pv8yextO5mBNllf6Dot7TFBSz1HcNj0DobnYr6cmpdvGFIJVwTnwKBgB9T\nW3BtuJDMYItIL8L0VNXRdUjHZY2sNwx8QbzUqQF5sYF344pYYqW+BDoJioMRKGbQ\nJxR3MnrsbflyKvShr8Rf/3cpSQt4LuC8LoM/oN4STPShhtu9fJeBMYnQfRw5xTyh\nhJzkiidIoQMNj5Y96nVTmAA4wrq7q9gDt2LZE/RJAoGAKNOAWovowPUjcGUxQGuX\nGAi8arWSIPSWDOZJ9vW+fAm9kGGmZFi5hr/cFPKdTc+xaIGk2YSaZQAcW8DEXCCU\nmjAMH67ipajLNnTT9pfxkzcmNTmKuBbqlQu4tS4gbi64o5KYaes3TOIox7rK63Xl\nDQsgkCrOXvTMnUW0rZwSJNk=\n-----END PRIVATE KEY-----\n",
+  "client_email": "william@phonic-agility-255419.iam.gserviceaccount.com",
+  "client_id": "104764615199513534527",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/william%40phonic-agility-255419.iam.gserviceaccount.com"
+}
